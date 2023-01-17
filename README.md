@@ -1,6 +1,6 @@
 # Practice01Greeting
 
-Kotlin practice project
+Kotlin practice project 01
 
 - Allow user to enter a name
 - Display a dynamic greeting message for user input
