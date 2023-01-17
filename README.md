@@ -1,6 +1,6 @@
 # Practice01Greeting
 
-Kotlin practice project 01
+My Kotlin practice program 01
 
 - Allow user to enter a name
 - Display a dynamic greeting toast for user input
